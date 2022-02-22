@@ -11,3 +11,5 @@ print(Fore.WHITE + "Hornet's Operating System Booting Up")
 print(Fore.RED + "Initializing.");sleep(0.5)
 print(Fore.RED + " Initializing..");sleep(0.5)
 print(Fore.RED + "  Initializing...\n");sleep(0.5)
+
+sleep(1)
