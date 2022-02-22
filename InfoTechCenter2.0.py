@@ -7,11 +7,12 @@ import random
 
 # Welcome Branch
 
-print("\033[1;34m Welcome To Hornets InfoTech Center! \n");sleep(1.5)
+print("\033[1;34m Welcome To Hornets InfoTech Center! \n");sleep(1.0)
 print(Fore.WHITE + "Hornet's Operating System Booting Up")
 print(Fore.RED + "Initializing.");sleep(0.5)
 print(Fore.RED + " Initializing..");sleep(0.5)
 print(Fore.RED + "  Initializing...\n");sleep(0.5)
+sleep(1)
 
 #Gas branch
 
@@ -43,4 +44,5 @@ def gasLevelAlert():
 
 #Call Functions Here
 gasLevelAlert()
+
 
